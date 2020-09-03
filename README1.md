@@ -1,1 +1,0 @@
-# hw-password-generator
